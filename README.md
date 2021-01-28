@@ -7,35 +7,52 @@
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox" alt="guptaashwanee" /></a> </p>
 
 <p align="left">
-<a href="https://twitter.com/guptaashwanee" target="blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
-<a href="https://github.com/guptaashwanee" target="blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a>
+<a href="https://twitter.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
+<a href="https://github.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a>
 </p>
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
 </div>
 
-
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/guptaashwanee" target="blank"><img src="https://img.shields.io/badge/Instagram-brightgreen?style=social&logo=instagram" alt="guptaashwanee" /></a>
-<a href="https://facebook.com/guptaashwanee" target="blank"><img src="https://img.shields.io/badge/Facebook-brightgreen?style=social&logo=facebook" alt="guptaashwanee" /></a>
-<a href="https://twitter.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guptaashwanee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guptaashwanee" height="30" width="40" /></a>
-<a href="https://fb.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="guptaashwanee" height="30" width="40" /></a>
-<a href="https://instagram.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guptaashwanee" height="30" width="40" /></a>
-<a href="https://dribbble.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="guptaashwanee" height="30" width="40" /></a>
-<a href="https://www.behance.net/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="guptaashwanee" height="30" width="40" /></a>
-<a href="https://medium.com/@guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@guptaashwanee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/guptaashwanee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-brightgreen?style=social&logo=linkedin" alt="guptaashwanee" /></a>
+<a href="https://instagram.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/badge/Instagram-brightgreen?style=social&logo=instagram" alt="guptaashwanee" /></a>
+<a href="https://github.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/badge/Github-brightgreen?style=social&logo=github" alt="guptaashwanee" /></a>
+<a href="https://twitter.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/badge/Twitter-brightgreen?style=social&logo=twitter" alt="guptaashwanee" /></a>
+<a href="https://www.dribbble.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/badge/Dribbble-brightgreen?style=social&logo=dribbble" alt="guptaashwanee" /></a>
+<a href="https://facebook.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/badge/Facebook-brightgreen?style=social&logo=facebook" alt="guptaashwanee" /></a>
+<a href="https://www.behance.net/guptaashwanee" target="_blank"><img src="https://img.shields.io/badge/Behance-brightgreen?style=social&logo=behance" alt="guptaashwanee" /></a>
+<a href="https://medium.com/@guptaashwanee" target="_blank"><img src="https://img.shields.io/badge/Medium-brightgreen?style=social&logo=medium" alt="@guptaashwanee" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashwanee's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/npm/npm.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpg"></code>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptaashwanee&show_icons=true&locale=en&layout=compact" alt="guptaashwanee" /></p>
 
