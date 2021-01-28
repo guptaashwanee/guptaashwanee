@@ -38,18 +38,17 @@
 <code><img height="20" src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpg"></code>
 
 
+<p align="center">
 
-<div style='padding-top:15px'>
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
-</div>
-
+[![Ashwanee's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</p>
 
 <details>
+
 <summary>📊  Github Stats</summary>
 <p align="center">
 
-<div style='padding-top:15px'>
+<div>
   <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
 </div>
@@ -63,7 +62,3 @@
 [![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](#)
 </p>
 </details>
-
-
-[![Ashwanee's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
