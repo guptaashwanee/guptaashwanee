@@ -40,25 +40,20 @@
 
 <p align="center">
 
-[![Ashwanee's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Ashwanee's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](#)
 </p>
 
-<details>
-
-<summary>📊  Github Stats</summary>
-<p align="center">
-
+<h3 align="left">📊  Github Stats:</h3>
 <div>
+<p align="center">
   <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
-</div>
 </p>
-</details>
+</div>
 
-<details>
-<summary>📊 Coding Stats</summary>
+
+<h3 align="left">Coding Stats:</h3>
 <p align="center">
 
 [![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](#)
 </p>
-</details>
