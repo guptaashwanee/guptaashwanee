@@ -2,19 +2,12 @@
 
 <h3>A passionate Full stack UI developer & Graphic Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaashwanee&label=Profile%20views&color=0e75b6&style=flat" alt="guptaashwanee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaashwanee&label=Profile%20views&color=0e75b6&style=flat" alt="guptaashwanee" />
+<a href="https://twitter.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
+<a href="https://github.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a></p>
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox" alt="guptaashwanee" /></a> </p>
 
-<p align="left">
-<a href="https://twitter.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
-<a href="https://github.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a>
-</p>
-
-<div>
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,19 +21,7 @@
 <a href="https://medium.com/@guptaashwanee" target="_blank"><img src="https://img.shields.io/badge/Medium-brightgreen?style=social&logo=medium" alt="@guptaashwanee" /></a>
 </p>
 
-
-<details>
-<summary>📊 Coding Stats</summary>
-<p align="center">
-
-[![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](#)
-</p>
-</details>
-
-
-[![Ashwanee's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-**Languages and Tools:**  
+<h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -56,4 +37,33 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpg"></code>
 
+
+
+<div style='padding-top:15px'>
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
+</div>
+
+
+<details>
+<summary>📊  Github Stats</summary>
+<p align="center">
+
+<div style='padding-top:15px'>
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
+</div>
+</p>
+</details>
+
+<details>
+<summary>📊 Coding Stats</summary>
+<p align="center">
+
+[![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](#)
+</p>
+</details>
+
+
+[![Ashwanee's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
