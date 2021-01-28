@@ -1,53 +1,30 @@
-# [Ashwanee Kumar Gupta](https://www.inspirecg.in/)
+<h1 align="center">Hi 👋, I'm Ashwanee Kumar Gupta</h1>
+<h3 align="center">A passionate Full stack UI developer & Graphic Designer</h3>
 
-Full Stack Web Development | Graphic Design
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaashwanee&label=Profile%20views&color=0e75b6&style=flat" alt="guptaashwanee" /> </p>
 
-<!-- ![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png) -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee" alt="guptaashwanee" /></a> </p>
 
-![GitHub User's stars](https://img.shields.io/github/stars/guptaashwanee?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/guptaashwanee?style=social)
+<p align="left"> <a href="https://twitter.com/guptaashwanee" target="blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?logo=twitter&style=for-the-badge" alt="guptaashwanee" /></a> </p>
 
-<p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=social&logo=twitter" />][twitter]
-<a href="mailto:ashwanee2001gupta@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guptaashwanee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guptaashwanee" height="30" width="40" /></a>
+<a href="https://fb.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="guptaashwanee" height="30" width="40" /></a>
+<a href="https://instagram.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guptaashwanee" height="30" width="40" /></a>
+<a href="https://dribbble.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="guptaashwanee" height="30" width="40" /></a>
+<a href="https://www.behance.net/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="guptaashwanee" height="30" width="40" /></a>
+<a href="https://medium.com/@guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@guptaashwanee" height="30" width="40" /></a>
+</p>
 
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][facebook]
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<hr />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptaashwanee&show_icons=true&locale=en&layout=compact" alt="guptaashwanee" /></p>
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<!-- Namaste 🙏 -->
- <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
- 
-* Primary coding language: Python.
-* I’m currently working on my portfolio.
-* I am currently learning Docker
-* I'm looking to collaborate on Open source project for Hacktoberfest
-* Competitive Programmer 
-* Ask me about anything, I'll be happy to help.
-* 😄 Pronouns: She/her
-* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi)
-* 🏠 Hogwarts House: Griffindor
-* If you play Call of Duty- add me: Blackhood00
-
-<table><tr><td valign="top" width="50%">
-
-### My Digital Garden 🌱
-
-You can find my blogs at my [Website](https://blog.inspirecg.com).
-
-<img src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula" alt="Ashwanee Kumar Gupta | Stats" />
-
-![Visitor Count](https://profile-counter.glitch.me/{guptaashwanee}/count.svg)
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-[twitter]: https://twitter.com/guptaashwanee
-[gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/guptaashwanee/
-[facebook]: https://www.facebook.com/guptaashwanee
-[instagram]: https://www.instagram.com/guptaashwanee
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&locale=en" alt="guptaashwanee" /></p>
