@@ -4,14 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaashwanee&label=Profile%20views&color=0e75b6&style=flat" alt="guptaashwanee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox" alt="guptaashwanee" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox" alt="guptaashwanee" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/guptaashwanee" target="blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
-<a href="https://github.com/guptaashwanee" target="blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a> </p>
+<p align="left">
+<a href="https://twitter.com/guptaashwanee" target="blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
+<a href="https://github.com/guptaashwanee" target="blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a>
+</p>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  <img height="170" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
 </div>
 
 
@@ -21,6 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/guptaashwanee" target="blank"><img src="https://img.shields.io/badge/Instagram-brightgreen?style=social&logo=instagram" alt="guptaashwanee" /></a>
+<a href="https://facebook.com/guptaashwanee" target="blank"><img src="https://img.shields.io/badge/Facebook-brightgreen?style=social&logo=facebook" alt="guptaashwanee" /></a>
 <a href="https://twitter.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guptaashwanee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guptaashwanee" height="30" width="40" /></a>
 <a href="https://fb.com/guptaashwanee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="guptaashwanee" height="30" width="40" /></a>
