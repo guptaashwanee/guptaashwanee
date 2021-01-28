@@ -1,13 +1,25 @@
 # [Ashwanee Kumar Gupta](https://www.inspirecg.in/)
 
 <h3>A passionate Full stack UI developer & Graphic Designer</h3>
-I am a full-stack Web developer & Graphic designer with a passion for metrics and beating former "best-yets." Seeking an Intern job as a Full-Stack UI Developer & Graphic Designer. 2+ years of experience includes programming, debugging, designing, and wireframes. Increased 50% UI/UX experience through Graphic Design skills. Developed & published two websites for the Inspire Code & Graphic. Boosted blogging experience by 60% & enhance the user interface. Built to over 5 web apps for college clubs, Increased popularity by 60%. Contributed to 10+ web app for a 33% increase in sales, developed for a local charity. 
+
+<p style='text-align:justify'>I am a full-stack Web developer & Graphic designer with 2+ years of experience includes programming, debugging, designing, and wireframes. Increased UI/UX experience through Graphic Design skills. Love to create beautiful stuffs.</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaashwanee&label=Profile%20views&color=0e75b6&style=flat" alt="guptaashwanee" />
 <a href="https://twitter.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
 <a href="https://github.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a></p>
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox" alt="guptaashwanee" /></a> </p>
+
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+ 
+* Primary coding language: JavaScript.
+* I’m currently working on my portfolio.
+* I am currently learning Back-end & Database
+* I'm looking to collaborate on Open source project.
+* Competitive Programmer 
+* 🏠 Lord of the Rings: Gandalf
+* If you play Call of Duty- add me: <b>ashumjo</b>
+
+Ask me about anything, I love to talk to people and discuss tech! You can reach me out through any of these below!
 
 
 <h3 align="left">Connect with me:</h3>
@@ -38,17 +50,18 @@ I am a full-stack Web developer & Graphic designer with a passion for metrics an
 <code><img height="20" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpg"></code>
 
+<h3 align="left">Contributions:</h3>
 
 <p align="center">
 
 [![Ashwanee's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](#)
 </p>
 
-<h3 align="left">📊  Github Stats:</h3>
+<h3 align="left">Github Stats:</h3>
 <div>
 <p align="center">
   <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=compact" />
 </p>
 </div>
 
@@ -58,3 +71,8 @@ I am a full-stack Web developer & Graphic designer with a passion for metrics an
 
 [![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](#)
 </p>
+
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox" alt="guptaashwanee" /></a> </p>
+
+
+
