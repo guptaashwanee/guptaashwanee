@@ -16,11 +16,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
 </div>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/guptaashwanee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-brightgreen?style=social&logo=linkedin" alt="guptaashwanee" /></a>
@@ -33,7 +28,14 @@
 <a href="https://medium.com/@guptaashwanee" target="_blank"><img src="https://img.shields.io/badge/Medium-brightgreen?style=social&logo=medium" alt="@guptaashwanee" /></a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+<summary>📊 Coding Stats</summary>
+
+[![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](#)
+
+</details>
+
 
 [![Ashwanee's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -54,6 +56,3 @@
 <code><img height="20" src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpg"></code>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptaashwanee&show_icons=true&locale=en&layout=compact" alt="guptaashwanee" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&locale=en" alt="guptaashwanee" /></p>
