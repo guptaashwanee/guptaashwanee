@@ -11,7 +11,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
+  <img height="170" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=default" />
 </div>
 
 
