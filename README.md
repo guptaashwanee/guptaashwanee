@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ashwanee Kumar Gupta</h1>
-<h3 align="center">A passionate Full stack UI developer & Graphic Designer</h3>
+# [Ashwanee Kumar Gupta](https://www.inspirecg.in/)
+
+<h3>A passionate Full stack UI developer & Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaashwanee&label=Profile%20views&color=0e75b6&style=flat" alt="guptaashwanee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee" alt="guptaashwanee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox" alt="guptaashwanee" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/guptaashwanee" target="blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?logo=twitter&style=for-the-badge" alt="guptaashwanee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/guptaashwanee" target="blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
+<a href="https://github.com/guptaashwanee" target="blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
