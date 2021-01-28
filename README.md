@@ -1,6 +1,7 @@
 # [Ashwanee Kumar Gupta](https://www.inspirecg.in/)
 
 <h3>A passionate Full stack UI developer & Graphic Designer</h3>
+I am a full-stack Web developer & Graphic designer with a passion for metrics and beating former "best-yets." Seeking an Intern job as a Full-Stack UI Developer & Graphic Designer. 2+ years of experience includes programming, debugging, designing, and wireframes. Increased 50% UI/UX experience through Graphic Design skills. Developed & published two websites for the Inspire Code & Graphic. Boosted blogging experience by 60% & enhance the user interface. Built to over 5 web apps for college clubs, Increased popularity by 60%. Contributed to 10+ web app for a 33% increase in sales, developed for a local charity. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaashwanee&label=Profile%20views&color=0e75b6&style=flat" alt="guptaashwanee" />
 <a href="https://twitter.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
