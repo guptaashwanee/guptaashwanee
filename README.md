@@ -31,9 +31,10 @@
 
 <details>
 <summary>📊 Coding Stats</summary>
+<p align="center">
 
 [![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](#)
-
+</p>
 </details>
 
 
