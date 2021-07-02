@@ -9,7 +9,7 @@
 <a href="https://github.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a></p>
 
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 </𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
  
 * Primary coding language: JavaScript.
 * I’m currently working on my portfolio.
