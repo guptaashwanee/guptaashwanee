@@ -6,8 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaashwanee&label=Profile%20views&color=0e75b6&style=flat" alt="guptaashwanee" />
 <a href="https://twitter.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
-<a href="https://github.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a></p>
-[![wakatime](https://wakatime.com/badge/user/29cd329b-1808-40d6-8dff-e4c229069972.svg)](https://wakatime.com/@29cd329b-1808-40d6-8dff-e4c229069972)
+<a href="https://github.com/guptaashwanee" target="_blank"><img src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a>
+
+ [![wakatime](https://wakatime.com/badge/user/29cd329b-1808-40d6-8dff-e4c229069972.svg)](https://wakatime.com/@guptaashwaneee)
+
+</p>
 
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
