@@ -54,6 +54,7 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpg"></code>
 
+
 <h3 align="left">Contributions:</h3>
 
 <p align="center">
@@ -75,6 +76,8 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 
 [![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=guptaashwanee)](#)
 </p>
+
+<img src="https://wakatime.com/share/@guptaashwanee/b8f39bd8-337c-4edb-a98d-14a554783d33.svg"></img>
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox" alt="guptaashwanee" /></a> </p>
 
