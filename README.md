@@ -1,6 +1,6 @@
 <!-- # [Ashwanee Kumar Gupta](https://www.inspirecg.in/) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ashwanee+Kumar+Gupta)](https://www.guptaashwanee.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ashwanee+Kumar+Gupta)](https://guptaashwanee.github.io)
 
 <h3>A passionate Full stack UI developer & Graphic Designer</h3>
 
