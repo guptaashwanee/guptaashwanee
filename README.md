@@ -1,5 +1,7 @@
 # [Ashwanee Kumar Gupta](https://www.inspirecg.in/)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=011F40&center=true&vCenter=true&width=435&lines=Ashwanee+Kumar+Gupta)](https://www.guptaashwanee.github.io)
+
 <h3>A passionate Full stack UI developer & Graphic Designer</h3>
 
 <p style='text-align:justify'>I am a full-stack Web developer & Graphic designer with 2+ years of experience includes programming, debugging, designing, and wireframes. Increased UI/UX experience through Graphic Design skills. Love to create beautiful stuffs.</p> 
