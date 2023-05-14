@@ -1,4 +1,4 @@
-<!-- # [Ashwanee Kumar Gupta](https://www.inspirecg.in/) -->
+<!-- # [Ashwanee Kumar Gupta](https://www.linkedin.com/in/guptaaswhanee) -->
 
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ashwanee+Kumar+Gupta)](https://guptaashwanee.github.io)
@@ -20,7 +20,7 @@ SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=3
 	<a href="https://wakatime.com/@guptaashwanee" target="_blank"> <img
 			src="https://wakatime.com/badge/user/29cd329b-1808-40d6-8dff-e4c229069972.svg" alt="guptaashwanee" /></a>
 </p>
-
+   
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰
 	<𝚌𝚘𝚍𝚎𝚛𝚜 />! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h2>
@@ -71,14 +71,14 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 <h3 align="left">Github Stats:</h3>
 <p align="center">
 	<a href="#" target="_blank"><img
-			src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en"
+			src="https://github-readme-stats.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en&rank_icon=github"
 			alt="guptaashwanee" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
 <p align="center">
 	<a href="#" target="_blank"><img
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&layout=compact"
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashwanee&show_icons=true"
 			alt="guptaashwanee" /></a>
 </p>
 
@@ -98,5 +98,10 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 
 </p>
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox"
-			alt="guptaashwanee" /></a> </p>
+<h3 align="left">Guthub Stats:</h3>
+<p align="center">
+<a href="#" target="_blank"><img
+			src="https://github-profile-trophy.vercel.app/?username=guptaashwanee&theme=gruvbox"
+			alt="guptaashwanee" /></a>
+
+</p>
