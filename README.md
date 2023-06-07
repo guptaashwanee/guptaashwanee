@@ -5,7 +5,7 @@ SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=3
 
 <h3>A passionate Full stack UI developer & Graphic Designer</h3>
 
-<p style='text-align:justify'>I am a full-stack Web developer & Graphic designer with 2+ years of experience includes
+<p style='text-align:justify'>I am a full-stack Web developer & Graphic designer with 4+ years of experience includes
 	programming, debugging, designing, and wireframes. Increased UI/UX experience through Graphic Design skills. Love to
 	create beautiful stuffs.</p>
 
