@@ -59,7 +59,7 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 
 <h3 align="left">Languages and Tools:</h3>
 <img
-	src="https://skillicons.dev/icons?i=nodejs,nginx,mongodb,kubernetes,aws,git,docker,react,express,webpack,threejs,js,ts,redux,firebase,postman,materialui,html,css,sass,bootstrap,ai&theme=light" />
+	src="https://skillicons.dev/icons?i=nodejs,nginx,mongodb,kubernetes,aws,git,docker,githubactions,react,express,nextjs,webpack,threejs,js,ts,redux,firebase,postman,materialui,html,css,sass,bootstrap,ai&theme=light" />
 
 <h3 align="left">Contributions:</h3>
 <p align="center">
