@@ -21,11 +21,11 @@ SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=3
 			src="https://wakatime.com/badge/user/29cd329b-1808-40d6-8dff-e4c229069972.svg" alt="guptaashwanee" /></a>
 </p>
    
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰
-	<𝚌𝚘𝚍𝚎𝚛𝚜 />! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h2> Hello, fellow coders! <img src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/main/Hi.gif" width="30px">
 </h2>
 
 - Primary coding language: JavaScript.
+- DevOps Engineer
 - I'm looking to collaborate on Open source project.
 - Competitive Programmer
 - 🏠 Lord of the Rings: Gandalf
@@ -105,3 +105,8 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 			alt="guptaashwanee" /></a>
 
 </p>
+
+<h3 align="left">Contributions:</h3>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
