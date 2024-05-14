@@ -5,9 +5,14 @@ SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=3
 
 <h3>A passionate Full stack UI developer & Graphic Designer</h3>
 
-<p style='text-align:justify'>I am a full-stack Web developer & Graphic designer with 4+ years of experience includes
-	programming, debugging, designing, and wireframes. Increased UI/UX experience through Graphic Design skills. Love to
-	create beautiful stuffs.</p>
+<p style='text-align:justify'>
+	
+Hello! I'm a seasoned software engineer with over 5 years of experience in programming, primarily focusing on Javascript/Typescript, React, and Node.js. I have a passion for creating efficient, scalable, and maintainable code.
+
+In addition to my core programming skills, I have spent over a year diving deep into the world of DevOps. I have hands-on experience with AWS, Nginx, Docker, and Kubernetes, and I am always eager to learn more and expand my skill set.
+
+I believe in the power of collaboration and open-source software. Feel free to check out my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+</p>
 
 <p align="left">
 	<a href="https://twitter.com/guptaashwanee" target="_blank"><img
@@ -107,6 +112,9 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 </p>
 
 <h3 align="left">Contributions:</h3>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
-</div>
+</picture>
