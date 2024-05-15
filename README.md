@@ -118,3 +118,9 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
   <img alt="github-snake" src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </picture>
+
+
+
+https://github.com/guptaashwanee/guptaashwanee/assets/52340682/bc53cff2-021d-4d8b-9cd2-6a4f5525884c
+
+
