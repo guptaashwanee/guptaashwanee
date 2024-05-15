@@ -119,8 +119,12 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
   <br/><br/><br/>
 </picture>
 
+<video> </video>
 
+<div align="center">
 
-https://github.com/guptaashwanee/guptaashwanee/assets/52340682/bc53cff2-021d-4d8b-9cd2-6a4f5525884c
+	https://github.com/guptaashwanee/guptaashwanee/assets/52340682/bc53cff2-021d-4d8b-9cd2-6a4f5525884c
+	
+</div>
 
 
