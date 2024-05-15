@@ -1,11 +1,9 @@
 <!-- # [Ashwanee Kumar Gupta](https://www.linkedin.com/in/guptaaswhanee) -->
 
-[![Typing
-SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ashwanee+Kumar+Gupta)](https://guptaashwanee.github.io)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=fff&width=435&lines=Ashwanee+Kumar+Gupta" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ashwanee+Kumar+Gupta" />
+<img alt="Ashwanee Kumar Gupta" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=ffcc34&width=435&lines=Ashwanee+Kumar+Gupta" />
 </picture>
 
 <h3>A passionate Full stack UI developer & Graphic Designer</h3>
@@ -119,7 +117,6 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 <h3 align="left">Contributions:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake-dark.svg" />
 <img alt="github-snake" src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </picture>
