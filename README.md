@@ -3,6 +3,11 @@
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ashwanee+Kumar+Gupta)](https://guptaashwanee.github.io)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=f8f8f8&width=435&lines=Ashwanee+Kumar+Gupta" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ashwanee+Kumar+Gupta" />
+</picture>
+
 <h3>A passionate Full stack UI developer & Graphic Designer</h3>
 
 <p style='text-align:justify'>
