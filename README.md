@@ -71,9 +71,11 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 
 <h3 align="left">Contributions:</h3>
 <p align="center">
-	<a href="#" target="_blank"><img
-			src="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00"
-			alt="guptaashwanee" /></a>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00&theme=algolia" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00" />
+<img alt="Ashwanee Kumar Gupta" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00" />
+</picture>
 </p>
 
 <h3 align="left">Github Stats:</h3>
