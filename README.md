@@ -22,7 +22,7 @@ I believe in the power of collaboration and open-source software. Feel free to c
 			src="https://komarev.com/ghpvc/?username=guptaashwanee&label=Profile%20views&color=0e75b6&style=flat"
 			alt="guptaashwanee" /></a>
 	<a href="https://twitter.com/guptaashwanee" target="_blank"><img
-			src="https://img.shields.io/twitter/follow/guptaashwanee?style=social" alt="guptaashwanee" /></a>
+			src="https://img.shields.io/twitter/follow/guptaashwanee" alt="guptaashwanee" /></a>
 	<a href="https://github.com/guptaashwanee" target="_blank"><img
 			src="https://img.shields.io/github/followers/guptaashwanee?style=social" alt="guptaashwanee" /></a>
 	<a href="https://wakatime.com/@guptaashwanee" target="_blank"> <img
