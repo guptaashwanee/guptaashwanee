@@ -29,7 +29,7 @@ I believe in the power of collaboration and open-source software. Feel free to c
 			src="https://wakatime.com/badge/user/29cd329b-1808-40d6-8dff-e4c229069972.svg" alt="guptaashwanee" /></a>
 </p>
    
-<h2> Hello, fellow coders! <img src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/main/Hi.gif" width="30px">
+<h2> :wave: Hello, fellow coders! <img src="https://raw.githubusercontent.com/guptaashwanee/guptaashwanee/main/Hi.gif" width="30px">
 </h2>
 
 - Primary coding language: JavaScript.
