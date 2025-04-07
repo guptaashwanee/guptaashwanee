@@ -81,7 +81,7 @@ Ask me about anything, I love to talk to people and discuss tech! You can reach 
 <h3 align="left">Github Stats:</h3>
 <p align="center">
 	<a href="#" target="_blank"><img
-			src="https://github-readme-stats-rho-eight-72.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+			src="https://github-readme-stats-new-umber.vercel.app/api?username=guptaashwanee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=en&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
 			alt="guptaashwanee" /></a>
 </p>
 
