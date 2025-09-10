@@ -37,7 +37,7 @@ I believe in the power of collaboration and open-source software. Feel free to c
 - I'm looking to collaborate on Open source project.
 - Competitive Programmer
 - 🏠 Lord of the Rings: Gandalf
-- If you play BGMI- add me: <b>whiteWolf🐺</b>
+- If you play BGMI- add me: <b>INSANE×Wolf々[5408034063]</b>
 
 Ask me about anything, I love to talk to people and discuss tech! You can reach me out through any of these below!
 
